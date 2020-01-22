@@ -1,4 +1,4 @@
-# C-Class-Assignments
+# C++-Class-Assignments
 
 Class assignments for Comp-3400 for Winter 2020.
 
