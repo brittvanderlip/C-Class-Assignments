@@ -9,4 +9,4 @@ The purpose of this program is a write a program that reads in raw character dat
 
 * if the character read in is a '.' (dot), '.' (comma), '?' (question mark), '-' (dash), or a "'" (single quote), then it is replaced by a ' ' (space) character unless these characters appear inside a double quotation-mark enclosed substring; and,
 * if the character is not a '.' (dot), '.' (comma), '?' (question mark), '-' (dash), or a "'" (single quote), then it is always output as-is.
-*_Limitations_: Cannot use <cctype>'s ispunct() or the ispunct() found within the C++ Standard Library
+* _Limitations_: Cannot use <cctype>'s ispunct() or the ispunct() found within the C++ Standard Library
